@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-regions/commit/52cbd0cf942d76a07dedc8a9ff620ad993d99c4f",
       "git:hexsha": "52cbd0cf942d76a07dedc8a9ff620ad993d99c4f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
