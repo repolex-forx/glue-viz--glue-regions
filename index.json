@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-regions",
+  "versions": [
+    {
+      "commit": "52cbd0cf942d76a07dedc8a9ff620ad993d99c4f",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:36:01.503529+00:00"
+    }
+  ]
+}
